@@ -29,7 +29,7 @@ When you search for a food, the search text is sent to the U.S. Department of Ag
 
 The app shows ads provided by Google AdMob. AdMob may collect and use information such as your device's advertising ID, IP address, device and app information, and ad interactions, to serve and measure ads and to prevent fraud. See Google's policy: https://policies.google.com/privacy
 
-In the EEA, the UK and other regions where consent is required, the app shows a consent form (Google User Messaging Platform) before ads are requested. You can change your choice at any time using **Privacy options** in the app's menu.
+In the EEA, the UK and other regions where consent is required, the app shows a consent form (Google User Messaging Platform) before ads are requested. In those regions you can change or withdraw your choice at any time using **Privacy options** in the app's menu (the item appears only where consent is required). In all regions you can also reset your advertising ID or opt out of ad personalization in your Android device settings.
 
 ## Not medical advice
 
