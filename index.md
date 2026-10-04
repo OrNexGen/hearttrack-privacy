@@ -1,6 +1,6 @@
 # HeartTrack: Sodium & Sat Fat — Privacy Policy
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-04
 **Contact:** organizer.next.generation@gmail.com
 
 This policy explains how the Android app **HeartTrack: Sodium & Sat Fat** ("the app") handles information.
@@ -9,7 +9,7 @@ This policy explains how the Android app **HeartTrack: Sodium & Sat Fat** ("the 
 
 - The app has no accounts and no developer server. Your food log stays on your device.
 - Food searches are sent to the USDA FoodData Central service.
-- The app shows ads through Google AdMob, which may collect device data. In the European Economic Area (EEA), this happens only according to your consent choice.
+- The app is 100% ad-free and tracker-free. It contains no ads, no trackers, and no advertising identifiers.
 
 ## Information stored on your device
 
@@ -25,11 +25,9 @@ We do not receive, access or share this data. It is removed when you uninstall t
 
 When you search for a food, the search text is sent to the U.S. Department of Agriculture's FoodData Central service to return nutrient data. No account or name is attached. As with any internet request, the service can see your IP address. See the USDA's own policies for how it handles requests.
 
-## Advertising (Google AdMob)
+## Advertising & Tracking (100% Ad-Free)
 
-The app shows ads provided by Google AdMob. AdMob may collect and use information such as your device's advertising ID, IP address, device and app information, and ad interactions, to serve and measure ads and to prevent fraud. See Google's policy: https://policies.google.com/privacy
-
-In the EEA, the UK and other regions where consent is required, the app shows a consent form (Google User Messaging Platform) before ads are requested. In those regions you can change or withdraw your choice at any time using **Privacy options** in the app's menu (the item appears only where consent is required). In all regions you can also reset your advertising ID or opt out of ad personalization in your Android device settings.
+The app is entirely free, contains zero advertisements, and includes no third-party advertising SDKs, ad networks, or user tracking services. We do not use or collect Google Advertising IDs (AAID), device tracking identifiers, or usage analytics.
 
 ## Not medical advice
 
